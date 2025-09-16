@@ -48,7 +48,7 @@ Employee table:
 | 1  | 100    |
 +----+--------+
 
-**Output 2:**
+Output 2:
 +---------------------+
 | SecondHighestSalary |
 +---------------------+
